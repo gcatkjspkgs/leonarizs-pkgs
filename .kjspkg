@@ -1,0 +1,9 @@
+{
+    "author": "Leonariz",
+    "description": "Small code to registry and check Curios, it works by just adding the parameters to the array. Docs: https://github.com/gcatkjspkgs/leonarizs-pkgs/blob/curios/README.md",
+    
+    "versions": [6, 8],
+    "modloaders": ["forge"],
+    "dependencies": [],
+    "incompatibilities": []
+}
