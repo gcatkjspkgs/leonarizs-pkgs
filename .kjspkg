@@ -2,7 +2,7 @@
     "author": "Leonariz",
     "description": "Leonariz's utility scripts.",
     
-    "versions": [6],
+    "versions": [8],
     "modloaders": ["forge"],
     "dependencies": [],
     "incompatibilities": []
