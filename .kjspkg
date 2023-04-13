@@ -1,0 +1,9 @@
+{
+    "author": "Leonariz",
+    "description": "Leonariz's utility scripts.",
+    
+    "versions": [6],
+    "modloaders": ["forge"],
+    "dependencies": [],
+    "incompatibilities": []
+}
