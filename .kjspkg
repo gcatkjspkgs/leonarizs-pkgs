@@ -1,6 +1,6 @@
 {
     "author": "Leonariz",
-    "description": "Leonariz's utility scripts.",
+    "description": "Leonariz's utility scripts. Docs: https://github.com/gcatkjspkgs/leonarizs-pkgs/blob/utilities/README.md",
     
     "versions": [8],
     "modloaders": ["forge"],
